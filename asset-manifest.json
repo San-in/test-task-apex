@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-apex/static/css/main.f564211b.css",
+    "main.js": "/test-task-apex/static/js/main.5da3b507.js",
+    "index.html": "/test-task-apex/index.html",
+    "main.f564211b.css.map": "/test-task-apex/static/css/main.f564211b.css.map",
+    "main.5da3b507.js.map": "/test-task-apex/static/js/main.5da3b507.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f564211b.css",
+    "static/js/main.5da3b507.js"
+  ]
+}
