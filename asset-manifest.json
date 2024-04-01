@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/test-task-apex/static/css/main.88c77db5.css",
-    "main.js": "/test-task-apex/static/js/main.888284eb.js",
+    "main.js": "/test-task-apex/static/js/main.aea0ad4d.js",
     "static/media/red-arrow.png": "/test-task-apex/static/media/red-arrow.2d0b860c2d568b513ee3.png",
     "static/media/green-arrow.png": "/test-task-apex/static/media/green-arrow.090b4fcecbe3e329f48b.png",
     "index.html": "/test-task-apex/index.html",
     "main.88c77db5.css.map": "/test-task-apex/static/css/main.88c77db5.css.map",
-    "main.888284eb.js.map": "/test-task-apex/static/js/main.888284eb.js.map"
+    "main.aea0ad4d.js.map": "/test-task-apex/static/js/main.aea0ad4d.js.map"
   },
   "entrypoints": [
     "static/css/main.88c77db5.css",
-    "static/js/main.888284eb.js"
+    "static/js/main.aea0ad4d.js"
   ]
 }
