@@ -1,6 +1,6 @@
 {
   "name": "test-task-apex",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "main": "./src/index.js",
   "homepage": "https://San-in.github.io/test-task-apex/",
   "dependencies": {

@@ -3,8 +3,7 @@
 This is a test project created for evaluating React skills. It includes a sample React application with various dependencies for styling, testing, and data visualization.
 
 #### Dependencies
-- **@emotion/react**: Styling library for React applications.
-- **@emotion/styled**: CSS-in-JS solution for styling React components.
+
 - **@eslint/js**: ESLint for JavaScript linting.
 - **@mui/material**: Material-UI library for React components.
 - **@testing-library/jest-dom**: Custom Jest matchers for DOM testing.
@@ -45,5 +44,12 @@ This is a test project created for evaluating React skills. It includes a sample
 3. Start the development server with `npm start`.
 4. Build the application for production with `npm run build`.
 5. Run tests using `npm test`.
+
+
+### Example Images
+
+![Example-1 текст](./public/screen1.png)
+![Example-1 текст](./public/screen2.png)
+![Example-1 текст](./public/screen3.png)
 
 For more details, visit the [GitHub repository](https://github.com/San-in/test-task-apex/).
