@@ -48,8 +48,9 @@ This is a test project created for evaluating React skills. It includes a sample
 
 ### Example Images
 
-![Example-1 текст](./public/screen1.png)
-![Example-1 текст](./public/screen2.png)
-![Example-1 текст](./public/screen3.png)
+![Example-1 текст](https://github.com/San-in/test-task-apex/blob/main/public/screen1.png?raw=true)
+![Example-2 текст](https://github.com/San-in/test-task-apex/blob/main/public/screen2.png?raw=true)
+![Example-3 текст](https://github.com/San-in/test-task-apex/blob/main/public/screen3.png?raw=true)
+
 
 For more details, visit the [GitHub repository](https://github.com/San-in/test-task-apex/).
