@@ -17,9 +17,6 @@ export const options: ApexOptions = {
       },
     },
   },
-  yaxis: {
-    tooltip: { enabled: true },
-  },
   tooltip: { enabled: true },
   annotations: {
     points: [
